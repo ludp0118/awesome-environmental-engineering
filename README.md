@@ -63,6 +63,7 @@
 - **[SAM (System Advisor Model)](https://sam.nrel.gov/)** - A model for simulating renewable energy projects.
 - **[PVWatts](https://pvwatts.nrel.gov/)** - A tool for estimating solar energy production.
 - **[EnergyPlus](https://energyplus.net/)** - A software for modeling energy consumption in buildings.
+- **[SolarXlist](https://solarxlist.org/)** - Global directory of solar, PV, and energy-storage companies (manufacturers, installers, EPCs, suppliers, distributors), searchable by country, city, and business role.
 
 ## Climate Change Mitigation
 
